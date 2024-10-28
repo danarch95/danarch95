@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @danarch95
 - 👀 I’m interested in travelling and technology
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me on IG or Linkedin
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 <!---
 danarch95/danarch95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
